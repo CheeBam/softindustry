@@ -1,0 +1,22 @@
+export default {
+    translation: {
+        appName: 'SoftIndustry Test',
+        en: 'English',
+        reset: 'Reset',
+        list: 'List',
+        name: 'Name',
+        image: 'Image',
+        createEmployee: 'Create Employee',
+        sociability: 'Sociability',
+        engineering: 'Engineering',
+        timeManagement: 'Time Management',
+        languages: 'Languages',
+        upload: 'Upload',
+        chooseFile: 'Choose file',
+        create: 'Create',
+        selectProject: 'Select project',
+        projects: 'Projects',
+        search: 'Search',
+        homepage: 'Homepage',
+    },
+};

@@ -1,0 +1,9 @@
+export const FILL_DATA = 'FILL_DATA';
+export const CLEAR = 'CLEAR';
+export const NAME = 'NAME';
+export const IMAGE = 'IMAGE';
+export const SOCIABILITY = 'SOCIABILITY';
+export const ENGINEERING = 'ENGINEERING';
+export const TIME_MANAGEMENT = 'TIME_MANAGEMENT';
+export const LANGUAGES = 'LANGUAGES';
+export const PROJECT = 'PROJECT';
