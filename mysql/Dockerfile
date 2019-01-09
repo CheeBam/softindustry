@@ -1,7 +1,5 @@
 FROM mysql:5.7.21
 
-COPY docker-entrypoint-initdb.d /docker-entrypoint-initdb.d
-
 ARG MYSQL_ROOT_PASSWORD=secret
 ENV MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
 
